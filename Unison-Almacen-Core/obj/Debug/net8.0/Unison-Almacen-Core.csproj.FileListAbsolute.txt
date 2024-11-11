@@ -1,0 +1,12 @@
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\bin\Debug\net8.0\Unison-Almacen-Core.deps.json
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\bin\Debug\net8.0\Unison-Almacen-Core.dll
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\bin\Debug\net8.0\Unison-Almacen-Core.pdb
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.csproj.AssemblyReference.cache
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.AssemblyInfoInputs.cache
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.AssemblyInfo.cs
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.csproj.CoreCompileInputs.cache
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.dll
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\refint\Unison-Almacen-Core.dll
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\Unison-Almacen-Core.pdb
+C:\Users\Anatnas\Desktop\Clases\practicas de desarrollo\PDSI-WPF-Almacen-ERomero\Rider-Almacen\Unison-Almacen\Unison-Almacen-Core\obj\Debug\net8.0\ref\Unison-Almacen-Core.dll
